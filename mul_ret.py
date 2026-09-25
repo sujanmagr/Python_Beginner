@@ -6,3 +6,7 @@ def calculate(a, b):
 result1, result2 = calculate(20, 10)
 print(result1)
 print(result2)
+
+print(result1)
+print(result1)
+print(result1)
